@@ -9,7 +9,7 @@ Projects Included :-
 2 : Face Mask Detection
     Identifies whether a person is wearing a mask or not using CNN-based image classification.
 
-3 : Automated Financial R
+3 : Automated Financial Report
     Automatically generates accurate and timely financial reports using Python and Pandas,             including income statements, balance sheets, and cash flow summaries.
     
 4 : Online Payment Fraud Detection 
